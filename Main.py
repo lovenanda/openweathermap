@@ -1,7 +1,8 @@
 
 import requests, json
 
-apiKey = "ad1b9daf7b80abf7c3e0093d81a22d13"
+
+apiKey = "ad1b9daf7b80abf7c3e0093d81a22d13" # masukan Api key Openweathermap.org
 
 kota = input("masukan daerah : ")
 
